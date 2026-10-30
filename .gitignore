@@ -1,0 +1,14 @@
+# 构建产物
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+.cache/
+compile_commands.json
