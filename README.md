@@ -1,7 +1,5 @@
 # balance-bot-f407
 
-# balance-bot-f407
-
 STM32F407 + 标准外设库（SPL）+ CMake 的最小工程。
 
 ## 依赖
